@@ -1,24 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🚨 Getting Started
 
-## Getting Started
+You can check our project by visiting the following link:, <a href="https://gemini-clone-zeta.vercel.app/" target="_blank"><b>Gemini Clone</b></a>.
 
-First, run the development server:
+## <a name="introduction">🤖 Introduction</a>
+
+Welcome to the Gemini Clone project, a faithful recreation inspired by the popular Gemini platform. Gemini Clone is a comprehensive attempt to replicate the essence and functionality of the original Gemini application, providing users with a familiar and intuitive experience. From its sleek design to its robust features, Gemini Clone aims to offer a seamless platform for exploring and interacting with various content types.
+
+## <a name="tech-stack">Tech Stack</a>
+
+- Next.js
+- Shadcn
+- Tailwind Css
+- Gemini Ai
+
+## <a name="quick-start">Integration and Installation Process</a>
+
+Follow these steps to set up the project locally on your device.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
+
+**Clone this Project**
+
+```bash
+git clone https://github.com/amitguria/Gemini-Clone.git
+cd gemini-clone
+```
+
+**Installation**
+
+Install dependencies using npm:
+
+```bash
+npm
+```
+
+**Running the Project using npm**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
