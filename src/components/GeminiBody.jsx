@@ -45,7 +45,7 @@ const GeminiBody = () => {
                 <ChevronsLeftRight size={35} className='p-1 absolute bottom-2 right-2 bg-bgPrimaryColor text-softTextColor rounded-full' />
               </div>
               <div className='h-48 p-4 bg-bgSecondaryColor rounded-xl relative cursor-pointer mb-5'>
-                <p>What's the it takes to walk to several landmark</p>
+                <p>What is the it takes to walk to several landmark</p>
                 <MapPin size={35} className='p-1 absolute bottom-2 right-2 bg-bgPrimaryColor text-softTextColor rounded-full' />
               </div>
             </div>
